@@ -30,16 +30,17 @@ header h1 .seo {
 }
 
 /* Styles all list items found in the nav tag */
-header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+
 }
 
-/* Stlyes the list items to be in line next eachother. */
-header nav ul li {
+/* Stlyes the page links to be in line next eachother. */
+nav a {
     display: inline-block;
     margin-left: 25px;
 }

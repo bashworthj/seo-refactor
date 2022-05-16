@@ -1,23 +1,25 @@
-# seo-refactor-homework
+# Horiseon SEO Refactor
 
-[Live Site]()
 
 ## Table Of Contents
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Visuals](#visuals)
-4. [Authors and Acknowledgement](#authors-and-acknowledgement)
+2. [Visuals](#visuals)
+3. [Authors and Acknowledgement](#authors-and-acknowledgement)
+4. [Resources](#resources)
 
 ## Description 
-- In this assignment I reduced code
+- In this assignment I opti reduced code
 
 ## Usage
 
 ## Visuals
-![place holder](./assets/images/brand-awareness.png)
+![Screen Shot](./assets/images/Horiseon%20_%20Search%20Engine%20Optimization.png)
 
 ## Authors and Acknowledgement
+- Ben Ashworth
 
-```html
-<p>Test</p>
-```
+## Resources
+[Repo Link](https://github.com/bashworthj/seo-refactor) 
+
+[Live Site](https://bashworthj.github.io/seo-refactor/)
+

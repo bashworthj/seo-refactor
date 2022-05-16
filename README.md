@@ -8,9 +8,8 @@
 4. [Resources](#resources)
 
 ## Description 
-- In this assignment I opti reduced code
+- In this assignment I replaced and added html semantics for SEO. I also reduced code in the css so that all elements receiving the the same styling are all receiving the same class attribution.
 
-## Usage
 
 ## Visuals
 ![Screen Shot](./assets/images/Horiseon%20_%20Search%20Engine%20Optimization.png)

@@ -65,13 +65,14 @@ main {
     background-position: center;
 }
 
-
+/* Styles the sizing and display of the content found with in the section tag classified as content. */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styles and formats all of the content within article tags with a classification of format. */
 .format {
     margin-bottom: 20px;
     padding: 50px;
@@ -81,25 +82,30 @@ main {
     color: #ffffff;
 }
 
+/* Declares the size of all img tags found with article tags with a classification of format. */
 .format img {
     max-height: 200px;
 }
 
+/* Styles all text in h2 tags found within article tags with a classification of format. */
 .format h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Declares poistioning of an element with this classifiation  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Declares poistioning of an element with this classifiation  */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Styles and formats all of the content within article tags with a classification of benifits. */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -111,17 +117,19 @@ main {
     background-color: #2589bd;
 }
 
+/* Styles text color and spacing for all content within section classified as .benifit-format. */
 .benifit-format {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Styles all text in h3 tags found within section tags with a classification of benifit-format. */
 .benifit-format h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* Declares the size of all img tags found within section tags with a classification of benifit-format. */
 .benifit-format img {
     display: block;
     margin: 10px auto;
@@ -135,6 +143,7 @@ footer {
     text-align: center;
 }
 
+/* Styles all text in h2 tags found within footer */
 footer h2 {
     font-size: 20px;
 }
